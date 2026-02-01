@@ -1,5 +1,7 @@
 # Data directory (MNIST, CIFAR-10 downloads)
 data/
 
-# Ignore file
+# Ignore file(s)
 code_ignore
+code_ignore.ipynb
+code_ignore*
