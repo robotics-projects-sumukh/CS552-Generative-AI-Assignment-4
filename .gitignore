@@ -1,0 +1,5 @@
+# Data directory (MNIST, CIFAR-10 downloads)
+data/
+
+# Ignore file
+code_ignore
